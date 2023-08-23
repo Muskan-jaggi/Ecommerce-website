@@ -399,6 +399,9 @@ button .normal {
   .header {
     padding: 0px 1px;
   }
+  .header img{
+   width: 140px;
+ }
   .topnav a:not(:first-child) {
     display: none;
   }
@@ -452,7 +455,7 @@ button .normal {
   .topnav.responsive {
     position: relative;
   }
-
+ 
   .topnav.responsive .icon {
     position: absolute;
     right: 0;
