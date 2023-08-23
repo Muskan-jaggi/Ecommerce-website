@@ -402,6 +402,18 @@ button .normal {
   .header img{
    width: 140px;
  }
+  #hero h1{
+    color: #DBA800;
+  }
+  #hero h2{
+    color: #DBA800;
+  }
+  #hero h3{
+    color: #DBA800;
+  }
+  #hero p{
+    color: #DBA800;
+  }
   .topnav a:not(:first-child) {
     display: none;
   }
